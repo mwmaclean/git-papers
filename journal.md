@@ -1,8 +1,9 @@
 ##Introduction
 this is the introduction
 
-
+##Results
+cool results
 
 ## References
 John, Smith (2020).
-John, Smith (2010).
+Reference 2 (1979)
