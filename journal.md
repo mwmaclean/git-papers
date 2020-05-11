@@ -2,7 +2,7 @@
 this is the introduction
 
 ##Results
-cool results
+very cool results.
 
 ## References
 John, Smith (2020).
