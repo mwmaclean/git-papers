@@ -7,6 +7,9 @@ very cool results.
 ##Figures
 Great figures.
 
+##Conclusions
+This is the conclusion.
+
 
 ## References
 John, Smith (2020).
